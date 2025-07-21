@@ -55,16 +55,3 @@ Instructions for contributing to the project, including guidelines, the contribu
 A license notice. Include the name of the license and a link to its text, or include the full text if it is short.
 ```
 
-#### Additional Sections
-
-You can add more sections as needed, such as "Getting Started", "Examples", "FAQ", "Acknowledgments", etc.
-
-### Best Practices
-
-- Keep the README concise but informative.
-- Use images and diagrams if they help explain the project better.
-- Make sure the language is clear and accessible to your target audience.
-- Keep the information up to date.
-- Use section headings for better readability.
-
-After you've written your README file, review it for clarity and completeness. Make sure it provides all the necessary information for someone who is new to your project. Finally, commit your README file to your version control system (like Git) alongside your project code.
